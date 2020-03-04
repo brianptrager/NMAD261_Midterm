@@ -1,0 +1,8 @@
+Nick Fury, Male, Black, 6'0, 6/19/1945, 10, NF8923456
+Phil Coulson, Male, Brown, 5'10, 7/8/1984, 9, SKJ08U7342
+Melinda May, Female, Black, 5'5, 12/13/1990, 7, A078634
+Daisy Johnson, Female, Brown, 5'7, 7/2/2012, 1, 52738ST27
+Grant Ward, Male, Brown, 6'4, 1/7/2004, 7, A0849329
+Leo Fitz, Male, Brown, 5'10, 8/19/2005, 5, A0947329
+Jemma Anne Simmons, Female, Brown, 5'8, 9/11/2005, 5, A0956307
+Antoine Triplett, Male, Black, 6'2, 10/20/97, 6, SA238994
